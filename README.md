@@ -7,3 +7,4 @@ Repositório criado com as resoluções das listas usadas para composição de n
 
 ## Referências
 - [Base de dados IMDb em português](https://www.kaggle.com/datasets/luisfredgs/imdb-ptbr?resource=download)
+- [Base de dados IMDb de Classificação de Gênero usada a partir da **Lista 2 - V2**](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
